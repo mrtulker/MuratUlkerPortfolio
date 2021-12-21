@@ -193,7 +193,18 @@ $('body').on('click', '.photo-container', function (e) {
    }
 });
 
-async function videoCloser() {    await wait(2000);    $(".entry-video-container").animate({       top: "-100vh"    }, 500);    await wait(500);    $(".entry-video-container").remove(); }  videoCloser();
+async function videoCloser() {
+   $(".entry-video-container").animate({
+      top: "-100vh"
+   }, 500);
+   await wait(500);
+   $(".entry-video-container").remove();
+}
+var video = document.getElementById("entryvideo");
+video.onended = async function () {
+   await wait(1000);
+   videoCloser();
+}
 
 $("body").css("display", "block");
 
