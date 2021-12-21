@@ -1,0 +1,29 @@
+#ill-text {
+   background-image: url("../assets/main-page-texts/ILL.png");
+   height: 95%;
+}
+
+#illItem {
+   background-image: url("../assets/main-page-backgrounds/illback.jpg");
+}
+
+#des-text {
+   background-image: url("../assets/main-page-texts/DES.png");
+   height: 46.5%;
+
+}
+
+#desItem {
+   background-image: url("../assets/main-page-backgrounds/desback.jpg");
+   left: 33.33%;
+}
+
+#ani-text {
+   background-image: url("../assets/main-page-texts/ANI.png");
+   height: 72%;
+}
+
+#aniItem {
+   left: 66.66%;
+   background-image: url("../assets/main-page-backgrounds/aniback.jpg");
+}

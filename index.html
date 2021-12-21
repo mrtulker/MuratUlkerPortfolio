@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Murat Ülker Portfolio</title>
+   <link rel="stylesheet" href="styles/ID.css">
+   <link rel="stylesheet" href="styles/main.css">
+   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+   <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
+   <script async src="https://api.countapi.xyz/hit/https://mrtulker.github.io/MuratUlkerPortfolio/visits?callback=visitCounter"></script>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap" rel="stylesheet">
+   <link rel="icon" href="assets/misc/siteicon.png">
+</head>
+
+<body>
+   <main class="main-page">
+      <div class="item" id="illItem" onclick="categoryOpen(this)" data-category="illustration" data-left="0%">
+         <div class="item-cover">
+            <div class="item-cover-img" id="ill-text"></div>
+         </div>
+      </div>
+      <div class="item" id="desItem" onclick="categoryOpen(this)" data-category="design" data-left="33.33%">
+         <div class="item-cover">
+            <div class="item-cover-img" id="des-text"></div>
+         </div>
+      </div>
+      <div class="item" id="aniItem" onclick="categoryOpen(this)" data-category="animation" data-left="66.66%">
+         <div class="item-cover">
+            <div class="item-cover-img" id="ani-text"></div>
+         </div>
+      </div>
+   </main>
+   <footer class="contact-container contact-width">
+      <div class="contact-main-container contact-main-width">
+         <div class="contact-text-container">
+            <div class="contact-text-img-container">
+               <img src="assets/contact-images/muratulker-text.jpg" alt="">
+            </div>
+            <div class="contact-text-icons-container">
+               <div class="icons-wrapper">
+                  <div class="icon-items">
+                     <a href="https://www.behance.net/muratulker" target="_blank">
+                        <img src="assets/contact-icon/behance.svg" alt="" class="contact-icon">
+                     </a>
+                  </div>
+                  <div class="icon-items">
+                     <a href="https://www.artstation.com/muratulker" target="_blank">
+                        <img src="assets/contact-icon/art-station.svg" alt="" class="contact-icon">
+                     </a>
+                  </div>
+                  <div class="icon-items">
+                     <a href="https://www.instagram.com/muratulker__/" target="_blank">
+                        <img src="assets/contact-icon/instagram.svg" alt="" class="contact-icon">
+                     </a>
+                  </div>
+                  <div class="icon-items">
+                     <a href="mailto:muratulker7@gmail.com">
+                        <img src="assets/contact-icon/mail.svg" alt="" class="contact-icon">
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="contact-img-container">
+            <img src="assets/contact-images/muratulker-img.jpg" alt="">
+         </div>
+      </div>
+   </footer>
+   <main class="content-container"></main>
+   <div class="entry-video-container"><video src="assets/video/girisVideo.mp4" muted autoplay ondblclick="videoCloser()" id="entryvideo"class="entry-video"></video></div>
+   <div style="display: none;" id="visits"></div>
+   <script refer src="JS/items.js"></script>
+   <script refer src="JS/pageload.js"></script>
+   <script refer src="JS/main.js"></script>
+   <script>
+      function visitCounter(response) {
+         document.getElementById('visits').innerText = response.value;
+      }
+   </script>
+</body>
+</html>
