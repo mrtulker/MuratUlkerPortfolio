@@ -72,7 +72,7 @@
       </div>
    </footer>
    <main class="content-container"></main>
-   <div class="entry-video-container"><video src="assets/video/girisVideo.mp4" muted autoplay id="entryvideo" class="entry-video"></video></div>
+   <div class="entry-video-container"><video src="assets/video/girisVideo.mp4" muted autoplay ondblclick="videoCloser()" id="entryvideo"class="entry-video"></video></div>
    <div style="display: none;" id="visits"></div>
    <script refer src="JS/items.js"></script>
    <script refer src="JS/pageload.js"></script>
