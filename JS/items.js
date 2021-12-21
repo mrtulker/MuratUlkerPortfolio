@@ -154,7 +154,6 @@ const desArray = [{
       placeHolderPath: "assets/content/aniplaceholder/1.jpg",
       type: "photo",
       videoURL:"",
-
    },
    {
       name: "MODERN ANADOL",
@@ -162,6 +161,55 @@ const desArray = [{
       placeHolderPath: "assets/content/desplaceholder/2.jpg",
       type: "photo",
       videoURL:""
+   },
+   {
+      name: "SU İÇMEYİ BULAN ADAM",
+      bigPhotoPath: "assets/content/des/SU İÇMEYİ BULAN ADAM.jpg",
+      placeHolderPath: "assets/content/desplaceholder/3.jpg",
+      type: "photo",
+      videoURL:""
+   },
+   {
+      name: "DERDİYOKLAR İKİLİSİ ALBUM COVER",
+      bigPhotoPath: "assets/content/des/DERDİYOKLAR İKİLİSİ.jpg",
+      placeHolderPath: "assets/content/desplaceholder/4.jpg",
+      type: "photo",
+      videoURL:""
+   },
+   {
+      name: "AŞIK EMRAH ALBUM COVER",
+      bigPhotoPath: "assets/content/des/AŞIK EMRAH.jpg",
+      placeHolderPath: "assets/content/desplaceholder/5.jpg",
+      type: "photo",
+      videoURL:""
+   },
+   {
+      name: "ERKİN KORAY ALBUM COVER",
+      bigPhotoPath: "assets/content/des/ERKİN KORAY.jpg",
+      placeHolderPath: "assets/content/desplaceholder/6.jpg",
+      type: "photo",
+      videoURL:""
+   },
+   {
+      name: "STEFAN ZWEIG BOOK COVER",
+      bigPhotoPath: "assets/content/des/STEFAN ZWEIG.jpg",
+      placeHolderPath: "assets/content/desplaceholder/7.jpg",
+      type: "photo",
+      videoURL:""
+   },
+   {
+      name: "POSTER DESIGN",
+      bigPhotoPath: "assets/content/des/POSTER DESIGN.jpg",
+      placeHolderPath: "assets/content/desplaceholder/8.jpg",
+      type: "photo",
+      videoURL:""
+   },
+   {
+      name: "AFTER EFFECTS DESIGN",
+      bigPhotoPath: "",
+      placeHolderPath: "assets/content/desplaceholder/9.jpg",
+      type: "video",
+      videoURL:["https://player.vimeo.com/video/656051609?h=7d57e2e5a8","https://player.vimeo.com/video/656052505?h=e1ad6ec228","https://player.vimeo.com/video/656053837?h=0676334806"]
    },
 ];
 const aniArray = [{
