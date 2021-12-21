@@ -150,7 +150,7 @@ const illArray = [{
 ];
 const desArray = [{
       name: "OPENEYE",
-      bigPhotoPath: "assets/content/des/OPENEYE.jpg",
+      bigPhotoPath: "assets/content/des/OPENEYE",
       placeHolderPath: "assets/content/aniplaceholder/1.jpg",
       type: "photo",
       videoURL:"",
