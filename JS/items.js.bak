@@ -37,7 +37,23 @@
 
 
 
-const illArray = [{
+const illArray = [
+	{
+      name: "VAHŞİ KADIN",
+      bigPhotoPath: "",
+      placeHolderPath: "assets/content/illplaceholder/19.jpg",
+      type: "both",
+      videoURL: "",
+	  urls: [{
+			type: "video",
+			url: "https://player.vimeo.com/video/658941137?h=9a825b198c"
+		},
+		{
+			type: "photo",
+			url: "assets/content/ill/VAHŞİ KADIN.jpg"
+		}]
+   },
+	{
       name: "KADIRGA",
       bigPhotoPath: "assets/content/ill/KADIRGA.jpg",
       placeHolderPath: "assets/content/illplaceholder/1.jpg",
@@ -203,6 +219,13 @@ const desArray = [{
       placeHolderPath: "assets/content/desplaceholder/8.jpg",
       type: "photo",
       videoURL:""
+   },
+   {
+      name: "AFTER EFFECTS DESIGN",
+      bigPhotoPath: "",
+      placeHolderPath: "assets/content/desplaceholder/9.jpg",
+      type: "video",
+      videoURL:["https://player.vimeo.com/video/656051609?h=7d57e2e5a8","https://player.vimeo.com/video/656052505?h=e1ad6ec228","https://player.vimeo.com/video/656053837?h=0676334806"]
    },
 ];
 const aniArray = [{

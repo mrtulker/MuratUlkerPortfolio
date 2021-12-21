@@ -37,7 +37,38 @@
 
 
 
-const illArray = [{
+const illArray = [
+	{
+      name: "VAHŞİ KADIN",
+      bigPhotoPath: "",
+      placeHolderPath: "assets/content/illplaceholder/19.jpg",
+      type: "both",
+      videoURL: "",
+	  urls: [{
+			type: "video",
+			url: "https://player.vimeo.com/video/658941137?h=9a825b198c"
+		},
+		{
+			type: "photo",
+			url: "assets/content/ill/VAHŞİ KADIN.jpg"
+		}]
+   },
+   {
+      name: "KAPLAN",
+      bigPhotoPath: "",
+      placeHolderPath: "assets/content/illplaceholder/20.jpg",
+      type: "both",
+      videoURL: "",
+	  urls: [{
+			type: "video",
+			url: "https://player.vimeo.com/video/658941596?h=e09992c4dc"
+		},
+		{
+			type: "photo",
+			url: "assets/content/ill/KAPLAN.jpg"
+		}]
+   },
+	{
       name: "KADIRGA",
       bigPhotoPath: "assets/content/ill/KADIRGA.jpg",
       placeHolderPath: "assets/content/illplaceholder/1.jpg",
