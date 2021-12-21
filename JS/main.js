@@ -193,7 +193,9 @@ $('body').on('click', '.photo-container', function (e) {
    }
 });
 
-async function videoCloser() {    await wait(3000);    $(".entry-video-container").animate({       top: "-100vh"    }, 500);    await wait(500);    $(".entry-video-container").remove(); }  videoCloser();
+async function videoCloser() {    await wait(3000);    $(".entry-video-container").animate({       top: "-100vh"    }, 800);    await wait(800);    $(".entry-video-container").remove(); }  videoCloser();
+var video = document.getElementById("entryvideo");
+video.play();
 
 $("body").css("display", "block");
 
