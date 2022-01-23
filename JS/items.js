@@ -38,6 +38,25 @@
 
 
 const illArray = [
+{
+      name: "CITY POP",
+      bigPhotoPath: "",
+      placeHolderPath: "assets/content/illplaceholder/21.jpg",
+      type: "both",
+      videoURL: "",
+	  urls: [{
+			type: "video",
+			url: "https://player.vimeo.com/video/669156238?h=18a8c36c61"
+		},
+		{
+			type: "video",
+			url: "https://player.vimeo.com/video/669156619?h=f233614931"
+		},
+		{
+			type: "photo",
+			url: "assets/content/ill/CITY POP.jpg"
+		}]
+   },
 	{
       name: "VAHŞİ KADIN",
       bigPhotoPath: "",
