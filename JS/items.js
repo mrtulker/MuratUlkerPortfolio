@@ -39,7 +39,7 @@
 
 const illArray = [
 {
-      name: "CITY POP",
+      name: "LAST SUMMER WHISPER",
       bigPhotoPath: "",
       placeHolderPath: "assets/content/illplaceholder/21.jpg",
       type: "both",
@@ -54,7 +54,7 @@ const illArray = [
 		},
 		{
 			type: "photo",
-			url: "assets/content/ill/CITY POP.jpg"
+			url: "assets/content/ill/LAST SUMMER WHISPER.jpg"
 		}]
    },
 	{
