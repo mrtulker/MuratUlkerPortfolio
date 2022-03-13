@@ -10,7 +10,6 @@
    <link rel="stylesheet" href="styles/main.css">
    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
    <script src="https://code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
-   <script async src="https://api.countapi.xyz/hit/https://mrtulker.github.io/MuratUlkerPortfolio/visits?callback=visitCounter"></script>
    <link rel="preconnect" href="https://fonts.googleapis.com">
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap" rel="stylesheet">
@@ -72,15 +71,9 @@
       </div>
    </footer>
    <main class="content-container"></main>
-   <div class="entry-video-container"><video src="assets/video/girisVideo.mp4" muted autoplay ondblclick="videoCloser()" id="entryvideo"class="entry-video"></video></div>
+   <div class="entry-video-container"><video src="assets/video/girisVideo.mp4" muted autoplay id="entryvideo" class="entry-video"></video></div>
    <div style="display: none;" id="visits"></div>
    <script refer src="JS/items.js"></script>
    <script refer src="JS/pageload.js"></script>
-   <script refer src="JS/main.js"></script>
    <script>
-      function visitCounter(response) {
-         document.getElementById('visits').innerText = response.value;
-      }
-   </script>
-</body>
 </html>
