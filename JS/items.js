@@ -213,6 +213,13 @@ const desArray = [
             url: "assets/content/des/sosyalmedya_2.jpg"
          }
       ]
+   },
+      {
+      name: "AFTER EFFECTS DESIGN",
+      bigPhotoPath: "",
+      placeHolderPath: "assets/content/desplaceholder/9.jpg",
+      type: "video",
+      videoURL: ["https://player.vimeo.com/video/799308563?h=6975a92d28", "https://player.vimeo.com/video/799309159?h=c95641ee0a", "https://player.vimeo.com/video/799311190?h=22668ca46d", "https://player.vimeo.com/video/799310020?h=acf8969d6a", "https://player.vimeo.com/video/799310304?h=c58363f65f", "https://player.vimeo.com/video/656051609?h=7d57e2e5a8", "https://player.vimeo.com/video/656052505?h=e1ad6ec228", "https://player.vimeo.com/video/656053837?h=0676334806"]
    }
    , {
       name: "OPENEYE",
@@ -269,14 +276,8 @@ const desArray = [
       placeHolderPath: "assets/content/desplaceholder/8.jpg",
       type: "photo",
       videoURL: ""
-   },
-   {
-      name: "AFTER EFFECTS DESIGN",
-      bigPhotoPath: "",
-      placeHolderPath: "assets/content/desplaceholder/9.jpg",
-      type: "video",
-      videoURL: ["https://player.vimeo.com/video/799308563?h=6975a92d28", "https://player.vimeo.com/video/799309159?h=c95641ee0a", "https://player.vimeo.com/video/799311190?h=22668ca46d", "https://player.vimeo.com/video/799310020?h=acf8969d6a", "https://player.vimeo.com/video/799310304?h=c58363f65f", "https://player.vimeo.com/video/656051609?h=7d57e2e5a8", "https://player.vimeo.com/video/656052505?h=e1ad6ec228", "https://player.vimeo.com/video/656053837?h=0676334806"]
-   },
+   }
+
 ]
 const aniArray = [{
    name: "OPENEYE TRAILER",
