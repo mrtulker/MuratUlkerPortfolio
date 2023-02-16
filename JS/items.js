@@ -38,39 +38,39 @@
 
 
 const illArray = [
-{
+   {
       name: "LAST SUMMER WHISPER",
       bigPhotoPath: "",
       placeHolderPath: "assets/content/illplaceholder/21.jpg",
       type: "both",
       videoURL: "",
-	  urls: [{
-			type: "video",
-			url: "https://player.vimeo.com/video/669156238?h=18a8c36c61"
-		},
-		{
-			type: "video",
-			url: "https://player.vimeo.com/video/669156619?h=f233614931"
-		},
-		{
-			type: "photo",
-			url: "assets/content/ill/LAST SUMMER WHISPER.jpg"
-		}]
+      urls: [{
+         type: "video",
+         url: "https://player.vimeo.com/video/669156238?h=18a8c36c61"
+      },
+      {
+         type: "video",
+         url: "https://player.vimeo.com/video/669156619?h=f233614931"
+      },
+      {
+         type: "photo",
+         url: "assets/content/ill/LAST SUMMER WHISPER.jpg"
+      }]
    },
-	{
+   {
       name: "VAHŞİ KADIN",
       bigPhotoPath: "",
       placeHolderPath: "assets/content/illplaceholder/19.jpg",
       type: "both",
       videoURL: "",
-	  urls: [{
-			type: "video",
-			url: "https://player.vimeo.com/video/658941137?h=9a825b198c"
-		},
-		{
-			type: "photo",
-			url: "assets/content/ill/VAHŞİ KADIN.jpg"
-		}]
+      urls: [{
+         type: "video",
+         url: "https://player.vimeo.com/video/658941137?h=9a825b198c"
+      },
+      {
+         type: "photo",
+         url: "assets/content/ill/VAHŞİ KADIN.jpg"
+      }]
    },
    {
       name: "KAPLAN",
@@ -78,16 +78,16 @@ const illArray = [
       placeHolderPath: "assets/content/illplaceholder/20.jpg",
       type: "both",
       videoURL: "",
-	  urls: [{
-			type: "video",
-			url: "https://player.vimeo.com/video/658941596?h=e09992c4dc"
-		},
-		{
-			type: "photo",
-			url: "assets/content/ill/KAPLAN.jpg"
-		}]
+      urls: [{
+         type: "video",
+         url: "https://player.vimeo.com/video/658941596?h=e09992c4dc"
+      },
+      {
+         type: "photo",
+         url: "assets/content/ill/KAPLAN.jpg"
+      }]
    },
-	{
+   {
       name: "KADIRGA",
       bigPhotoPath: "assets/content/ill/KADIRGA.jpg",
       placeHolderPath: "assets/content/illplaceholder/1.jpg",
@@ -197,97 +197,113 @@ const illArray = [
       type: "photo",
       videoURL: "",
    },
-];
-const desArray = [{
+]
+const desArray = [
+   {
+      name: "SOSYAL MEDYA TASARIMLARI",
+      placeHolderPath: "assets/content/desplaceholder/10.jpg",
+      type: "both",
+      urls: [
+         {
+            type: "photo",
+            url: "assets/content/des/sosyalmedya.jpg"
+         },
+         {
+            type: "photo",
+            url: "assets/content/des/sosyalmedya_2.jpg"
+         }
+      ]
+   }
+   , {
       name: "OPENEYE",
       bigPhotoPath: "assets/content/des/OPENEYE.jpg",
       placeHolderPath: "assets/content/aniplaceholder/1.jpg",
       type: "photo",
-      videoURL:"",
+      videoURL: "",
    },
    {
       name: "MODERN ANADOL",
       bigPhotoPath: "assets/content/des/MODERN ANADOL.jpg",
       placeHolderPath: "assets/content/desplaceholder/2.jpg",
       type: "photo",
-      videoURL:""
+      videoURL: ""
    },
    {
       name: "SU İÇMEYİ BULAN ADAM",
       bigPhotoPath: "assets/content/des/SU İÇMEYİ BULAN ADAM.jpg",
       placeHolderPath: "assets/content/desplaceholder/3.jpg",
       type: "photo",
-      videoURL:""
+      videoURL: ""
    },
    {
       name: "DERDİYOKLAR İKİLİSİ ALBUM COVER",
       bigPhotoPath: "assets/content/des/DERDİYOKLAR İKİLİSİ.jpg",
       placeHolderPath: "assets/content/desplaceholder/4.jpg",
       type: "photo",
-      videoURL:""
+      videoURL: ""
    },
    {
       name: "AŞIK EMRAH ALBUM COVER",
       bigPhotoPath: "assets/content/des/AŞIK EMRAH.jpg",
       placeHolderPath: "assets/content/desplaceholder/5.jpg",
       type: "photo",
-      videoURL:""
+      videoURL: ""
    },
    {
       name: "ERKİN KORAY ALBUM COVER",
       bigPhotoPath: "assets/content/des/ERKİN KORAY.jpg",
       placeHolderPath: "assets/content/desplaceholder/6.jpg",
       type: "photo",
-      videoURL:""
+      videoURL: ""
    },
    {
       name: "STEFAN ZWEIG BOOK COVER",
       bigPhotoPath: "assets/content/des/STEFAN ZWEIG.jpg",
       placeHolderPath: "assets/content/desplaceholder/7.jpg",
       type: "photo",
-      videoURL:""
+      videoURL: ""
    },
    {
       name: "POSTER DESIGN",
       bigPhotoPath: "assets/content/des/POSTER DESIGN.jpg",
       placeHolderPath: "assets/content/desplaceholder/8.jpg",
       type: "photo",
-      videoURL:""
+      videoURL: ""
    },
    {
       name: "AFTER EFFECTS DESIGN",
       bigPhotoPath: "",
       placeHolderPath: "assets/content/desplaceholder/9.jpg",
       type: "video",
-      videoURL:["https://player.vimeo.com/video/656051609?h=7d57e2e5a8","https://player.vimeo.com/video/656052505?h=e1ad6ec228","https://player.vimeo.com/video/656053837?h=0676334806"]
+      videoURL: ["https://player.vimeo.com/video/799308563?h=6975a92d28", "https://player.vimeo.com/video/799309159?h=c95641ee0a", "https://player.vimeo.com/video/799311190?h=22668ca46d", "https://player.vimeo.com/video/799310020?h=acf8969d6a", "https://player.vimeo.com/video/799310304?h=c58363f65f", "https://player.vimeo.com/video/656051609?h=7d57e2e5a8", "https://player.vimeo.com/video/656052505?h=e1ad6ec228", "https://player.vimeo.com/video/656053837?h=0676334806"]
    },
-];
+]
 const aniArray = [{
-      name: "OPENEYE TRAILER",
-      bigPhotoPath: "",
-      placeHolderPath: "assets/content/aniplaceholder/1.jpg",
-      type: "video",
-      videoURL: ["https://player.vimeo.com/video/490751806?h=4f0be92a52"],
-   },
-   {
-      name: "OPENEYE MOTION POSTER",
-      bigPhotoPath: "",
-      placeHolderPath: "assets/content/aniplaceholder/1.jpg",
-      type: "video",
-      videoURL: ["https://player.vimeo.com/video/638860635?h=0cfb99b9fe"],
-   },
-   {
-      name: "FISH",
-      bigPhotoPath: "",
-      placeHolderPath: "assets/content/aniplaceholder/3.jpg",
-      type: "video",
-      videoURL: ["https://player.vimeo.com/video/411335446?h=db099e0e93"],
-   },
-   {
-      name: "SPORTS",
-      bigPhotoPath: "",
-      placeHolderPath: "assets/content/aniplaceholder/4.jpg",
-      type: "video",
-      videoURL: ["https://player.vimeo.com/video/422240350?h=fe81d31e41"],
-   },
-];
+   name: "OPENEYE TRAILER",
+   bigPhotoPath: "",
+   placeHolderPath: "assets/content/aniplaceholder/1.jpg",
+   type: "video",
+   videoURL: ["https://player.vimeo.com/video/490751806?h=4f0be92a52"],
+},
+{
+   name: "OPENEYE MOTION POSTER",
+   bigPhotoPath: "",
+   placeHolderPath: "assets/content/aniplaceholder/1.jpg",
+   type: "video",
+   videoURL: ["https://player.vimeo.com/video/638860635?h=0cfb99b9fe"],
+},
+{
+   name: "FISH",
+   bigPhotoPath: "",
+   placeHolderPath: "assets/content/aniplaceholder/3.jpg",
+   type: "video",
+   videoURL: ["https://player.vimeo.com/video/411335446?h=db099e0e93"],
+},
+{
+   name: "SPORTS",
+   bigPhotoPath: "",
+   placeHolderPath: "assets/content/aniplaceholder/4.jpg",
+   type: "video",
+   videoURL: ["https://player.vimeo.com/video/422240350?h=fe81d31e41"],
+},
+]
