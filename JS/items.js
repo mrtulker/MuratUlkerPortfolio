@@ -202,7 +202,11 @@ const illArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/ill/hellboy-min.jpg',
+        url: 'assets/content/ill/hellboy.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/hellboy2.jpg',
       },
     ],
   },
