@@ -514,6 +514,10 @@ const desArray = [
         url: 'https://player.vimeo.com/video/799308563?h=6975a92d28',
       },
       {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883805641?h=d6db2f195e',
+      },
+      {
         type: 'photo',
         url: 'assets/content/des/imza-03-03.jpg',
       },
