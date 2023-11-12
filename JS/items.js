@@ -41,15 +41,15 @@ const illArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/ill/bezemeli copy-min.jpg',
+        url: 'assets/content/ill/bezemeli copy.jpg',
       },
       {
         type: 'photo',
-        url: 'assets/content/ill/bezemeli2 copy-min.jpg',
+        url: 'assets/content/ill/bezemeli2 copy.jpg',
       },
       {
         type: 'photo',
-        url: 'assets/content/ill/bezemeli3 copy-min.jpg',
+        url: 'assets/content/ill/bezemeli3 copy.jpg',
       },
     ],
   },
@@ -71,6 +71,35 @@ const illArray = [
       {
         type: 'photo',
         url: 'assets/content/ill/obe-min.JPG',
+      },
+    ],
+  },
+  {
+    name: 'KARGIŞ',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/kargis-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/kargis1.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/kargis2.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/kargis3.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/kargis4.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/kargis5.JPG',
       },
     ],
   },
