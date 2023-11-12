@@ -105,6 +105,23 @@ const illArray = [
     ],
   },
   {
+    name: 'FRAME',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/frame-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/frame1-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/frame2-min.JPG',
+      },
+    ],
+  },
+  {
     name: 'LAST SUMMER WHISPER',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/21.jpg',
