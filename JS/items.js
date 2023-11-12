@@ -537,6 +537,22 @@ const desArray = [
         url: 'assets/content/des/amatis-kurumsal-01.jpg',
       },
       {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883808030?h=3112201cd4',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883808220?h=dd8d45778a',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883808305?h=a6aa482a17',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883808370?h=01d72ca23a',
+      },
+      {
         type: 'photo',
         url: 'assets/content/des/imza-03-03.jpg',
       },
