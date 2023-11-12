@@ -206,7 +206,7 @@ const illArray = [
       },
       {
         type: 'photo',
-        url: 'assets/content/ill/hellboy2.jpg',
+        url: 'assets/content/ill/hellboy2.JPG',
       },
     ],
   },
@@ -219,7 +219,7 @@ const illArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/ill/frame1-min.JPG',
+        url: 'assets/content/ill/frame1-min.jpg',
       },
       {
         type: 'photo',
@@ -309,7 +309,7 @@ const illArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/ill/solucan-min.jpg',
+        url: 'assets/content/ill/solucan-min.JPG',
       },
     ],
   },
