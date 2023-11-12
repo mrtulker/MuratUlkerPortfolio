@@ -503,7 +503,7 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/ums-sm-min.jpg',
+        url: 'assets/content/des/ums-sm.jpg',
       },
       {
         type: 'video',
@@ -526,7 +526,7 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/amatis-sm-min.jpg',
+        url: 'assets/content/des/amatis-sm.jpg',
       },
       {
         type: 'photo',
@@ -545,7 +545,7 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/solar-sm-min.jpg',
+        url: 'assets/content/des/solar-sm.jpg',
       },
       {
         type: 'photo',
@@ -560,7 +560,7 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/arvensis-sm-min.jpg',
+        url: 'assets/content/des/arvensis-sm.jpg',
       },
     ],
   },
@@ -571,7 +571,7 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/best-katalog-01-min.jpg',
+        url: 'assets/content/des/best-katalog-01.jpg',
       },
     ],
   },
@@ -582,7 +582,7 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/binance-katalog-01-min.jpg',
+        url: 'assets/content/des/binance-katalog-01.jpg',
       },
     ],
   },
