@@ -36,7 +36,7 @@ const illArray = [
     name: 'BEZEMELİ',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/bezeme-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -57,7 +57,7 @@ const illArray = [
     name: 'FLOWUTY FLOWERS',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/flowuty-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -130,7 +130,7 @@ const illArray = [
     name: 'GORİL ÇİZGİ ROMAN',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/goril-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -151,7 +151,7 @@ const illArray = [
     name: 'KARGIŞ',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/kargis-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -180,7 +180,7 @@ const illArray = [
     name: 'DTIYS',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/dtiys1-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -197,7 +197,7 @@ const illArray = [
     name: 'HELLBOY',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/hellboy-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -210,7 +210,7 @@ const illArray = [
     name: 'FRAME',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/frame-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -227,7 +227,7 @@ const illArray = [
     name: 'FLOWER GIRLS',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/flower-girl-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -244,7 +244,7 @@ const illArray = [
     name: 'GÜZEL KIZLAR',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/guzel-kiz-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -261,7 +261,7 @@ const illArray = [
     name: 'VAHŞİ ÇİÇEK REMAKE',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/vahsi-cicek2-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
@@ -274,7 +274,7 @@ const illArray = [
     name: 'RED UMBRELLA',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/red-umbrella-kucuk.jpg',
-    type: 'photo',
+    type: 'both',
     videoURL: '',
     urls: [
       {
