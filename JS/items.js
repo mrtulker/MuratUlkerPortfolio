@@ -224,6 +224,66 @@ const illArray = [
     ],
   },
   {
+    name: 'FLOWER GIRLS',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/flower-girl-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/kadınlar-min.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flower-girl-min.jpg',
+      },
+    ],
+  },
+  {
+    name: 'GÜZEL KIZLAR',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/guzel-kiz-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/güzelKız-min.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/bir-başka-güzel-kadın-min.jpg',
+      },
+    ],
+  },
+  {
+    name: 'VAHŞİ ÇİÇEK REMAKE',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/vahsi-cicek2-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/vahşiÇiçekRemake -min.jpg',
+      },
+    ],
+  },
+  {
+    name: 'RED UMBRELLA',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/red-umbrella-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/redUmbrella-min.jpg',
+      },
+    ],
+  },
+  {
     name: 'LAST SUMMER WHISPER',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/21.jpg',
