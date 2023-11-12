@@ -552,24 +552,24 @@ const desArray = [
         url: 'assets/content/des/solar-sm.jpg',
       },
       {
-        type: 'photo',
-        url: 'assets/content/des/imza-03-03.jpg',
-      },
-      {
         type: 'video',
         url: 'https://player.vimeo.com/video/883806546?h=f48bd2191f',
       },
       {
         type: 'video',
-        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+        url: 'https://player.vimeo.com/video/883806991?h=1b4200e83d',
       },
       {
         type: 'video',
-        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+        url: 'https://player.vimeo.com/video/883807118?h=019631b177',
       },
       {
         type: 'video',
-        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+        url: 'https://player.vimeo.com/video/883807470?h=38bc0e333b',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
       },
     ],
   },
