@@ -301,6 +301,19 @@ const illArray = [
     ],
   },
   {
+    name: 'SOLUCANIN GÜNÜ',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/solucan-kucuk.jpg',
+    type: 'both',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/solucan-min.jpg',
+      },
+    ],
+  },
+  {
     name: 'LAST SUMMER WHISPER',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/21.jpg',
