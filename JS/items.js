@@ -668,17 +668,17 @@ const desArray = [
       },
     ],
   },
-  //{
-  //  name: 'LOGO ANİMASYON',
-  //  placeHolderPath: 'assets/content/desplaceholder/logo-ani-kucuk.jpg',
-  //  type: 'both',
-  //  urls: [
-  //    {
-  //      type: 'photo',
-  //      url: 'assets/content/des/best-katalog-01-min.jpg',
-  //    },
-  //  ],
-  //},
+  {
+    name: 'LOGO ANİMASYON',
+    placeHolderPath: 'assets/content/desplaceholder/logo-ani-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883808675?h=f44087f338',
+      },
+    ],
+  },
  // {
    // name: 'AFTER EFFECTS DESIGN',
    // bigPhotoPath: '',
