@@ -547,6 +547,22 @@ const desArray = [
         type: 'photo',
         url: 'assets/content/des/solar-sm-min.jpg',
       },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
+      },
+    ],
+  },
+  {
+    name: 'ARVENSİS DANIŞMANLIK',
+    placeHolderPath: 'assets/content/desplaceholder/arvensis-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/arvensis-sm-min.jpg',
+      },
+
     ],
   },
   {
