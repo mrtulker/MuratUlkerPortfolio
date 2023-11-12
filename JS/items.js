@@ -562,6 +562,10 @@ const desArray = [
         type: 'photo',
         url: 'assets/content/des/arvensis-sm.jpg',
       },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
+      },
     ],
   },
   {
@@ -573,6 +577,10 @@ const desArray = [
         type: 'photo',
         url: 'assets/content/des/best-katalog-01.jpg',
       },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
+      },
     ],
   },
   {
@@ -583,6 +591,10 @@ const desArray = [
       {
         type: 'photo',
         url: 'assets/content/des/binance-katalog-01.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
       },
     ],
   },
@@ -599,16 +611,9 @@ const desArray = [
         type: 'photo',
         url: 'assets/content/des/creaderm-ambalaj-02.jpg',
       },
-    ],
-  },
-  {
-    name: 'DERMATONE',
-    placeHolderPath: 'assets/content/desplaceholder/dermatone-kucuk.jpg',
-    type: 'both',
-    urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/best-katalog-01-min.jpg',
+        url: 'assets/content/des/imza-03-03.jpg',
       },
     ],
   },
@@ -619,10 +624,25 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/best-katalog-01-min.jpg',
+        url: 'assets/content/des/dermatone-foto-01.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
       },
     ],
   },
+  //{
+  //  name: 'LOGO ANİMASYON',
+  //  placeHolderPath: 'assets/content/desplaceholder/logo-ani-kucuk.jpg',
+  //  type: 'both',
+  //  urls: [
+  //    {
+  //      type: 'photo',
+  //      url: 'assets/content/des/best-katalog-01-min.jpg',
+  //    },
+  //  ],
+  //},
   {
     name: 'AFTER EFFECTS DESIGN',
     bigPhotoPath: '',
