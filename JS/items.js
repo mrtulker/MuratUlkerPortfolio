@@ -524,6 +524,10 @@ const desArray = [
         type: 'photo',
         url: 'assets/content/des/amatis-sm-min.jpg',
       },
+      {
+        type: 'photo',
+        url: 'assets/content/des/amatis-kurumsal-01.jpg',
+      },
     ],
   },
   {
