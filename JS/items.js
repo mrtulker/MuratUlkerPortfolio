@@ -54,6 +54,79 @@ const illArray = [
     ],
   },
   {
+    name: 'FLOWUTY FLOWERS',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/flowuty-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty1-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty2-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty3-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty4-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty5-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty6-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty7-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty8-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty9-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty10-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty11-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty12-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty13-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty14-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty15-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/flowuty16-min.JPG',
+      },
+    ],
+  },
+  {
     name: 'GORİL ÇİZGİ ROMAN',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/goril-kucuk.jpg',
