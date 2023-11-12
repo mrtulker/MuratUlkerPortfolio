@@ -562,7 +562,17 @@ const desArray = [
         type: 'photo',
         url: 'assets/content/des/arvensis-sm-min.jpg',
       },
-
+    ],
+  },
+  {
+    name: 'BEST ALÜMİNYUM',
+    placeHolderPath: 'assets/content/desplaceholder/best-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/best-katalog-01-min.jpg',
+      },
     ],
   },
   {
