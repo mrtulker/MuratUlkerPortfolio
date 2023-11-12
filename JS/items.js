@@ -35,21 +35,21 @@ const illArray = [
   {
     name: 'BEZEMELİ',
     bigPhotoPath: '',
-    placeHolderPath: 'assets/content/illplaceholder/bezeme-kucuk.jpeg',
+    placeHolderPath: 'assets/content/illplaceholder/bezeme-kucuk.jpg',
     type: 'photo',
     videoURL: '',
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/ill/bezemeli copy-min.jpeg',
+        url: 'assets/content/ill/bezemeli copy-min.jpg',
       },
       {
         type: 'photo',
-        url: 'assets/content/ill/bezemeli2 copy-min.jpeg',
+        url: 'assets/content/ill/bezemeli2 copy-min.jpg',
       },
       {
         type: 'photo',
-        url: 'assets/content/ill/bezemeli3 copy-min.jpeg',
+        url: 'assets/content/ill/bezemeli3 copy-min.jpg',
       },
     ],
   },
