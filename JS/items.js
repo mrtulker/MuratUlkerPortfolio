@@ -33,6 +33,27 @@
 
 const illArray = [
   {
+    name: 'BEZEMELİ',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/bezeme-kucuk.jpeg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/bezemeli copy-min.jpeg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/bezemeli2 copy-min.jpeg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/bezemeli3 copy-min.jpeg',
+      },
+    ],
+  },
+  {
     name: 'LAST SUMMER WHISPER',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/21.jpg',
