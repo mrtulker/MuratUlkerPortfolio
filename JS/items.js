@@ -555,6 +555,22 @@ const desArray = [
         type: 'photo',
         url: 'assets/content/des/imza-03-03.jpg',
       },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883806546?h=f48bd2191f',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+      },
     ],
   },
   {
