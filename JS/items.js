@@ -54,6 +54,23 @@ const illArray = [
     ],
   },
   {
+    name: 'DTIYS',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/dtiys1-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/dtiys1-min.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/dtiys2-min.jpg',
+      },
+    ],
+  },
+  {
     name: 'LAST SUMMER WHISPER',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/21.jpg',
