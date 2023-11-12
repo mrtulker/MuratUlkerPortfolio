@@ -54,23 +54,6 @@ const illArray = [
     ],
   },
   {
-    name: 'DTIYS',
-    bigPhotoPath: '',
-    placeHolderPath: 'assets/content/illplaceholder/dtiys1-kucuk.jpg',
-    type: 'photo',
-    videoURL: '',
-    urls: [
-      {
-        type: 'photo',
-        url: 'assets/content/ill/dtiys1-min.JPG',
-      },
-      {
-        type: 'photo',
-        url: 'assets/content/ill/dtiys2-min.JPG',
-      },
-    ],
-  },
-  {
     name: 'GORİL ÇİZGİ ROMAN',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/goril-kucuk.jpg',
@@ -88,6 +71,36 @@ const illArray = [
       {
         type: 'photo',
         url: 'assets/content/ill/obe-min.JPG',
+      },
+    ],
+  },
+  {
+    name: 'DTIYS',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/dtiys1-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/dtiys1-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/dtiys2-min.JPG',
+      },
+    ],
+  },
+  {
+    name: 'HELLBOY',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/hellboy-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/hellboy-min.jpg',
       },
     ],
   },
