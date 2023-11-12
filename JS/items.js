@@ -240,7 +240,7 @@ const illArray = [
       },
       {
         type: 'photo',
-        url: 'assets/content/ill/flower-girl-min.jpg',
+        url: 'assets/content/ill/flower-girl-min.JPG',
       },
     ],
   },
