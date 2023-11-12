@@ -576,6 +576,54 @@ const desArray = [
     ],
   },
   {
+    name: 'BINANCE',
+    placeHolderPath: 'assets/content/desplaceholder/binance-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/binance-katalog-01-min.jpg',
+      },
+    ],
+  },
+  {
+    name: 'CREADERM',
+    placeHolderPath: 'assets/content/desplaceholder/creaderm-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/creaderm-foto-01-min.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/creaderm-ambalaj-02-min.jpg',
+      },
+    ],
+  },
+  {
+    name: 'DERMATONE',
+    placeHolderPath: 'assets/content/desplaceholder/dermatone-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/best-katalog-01-min.jpg',
+      },
+    ],
+  },
+  {
+    name: 'DERMATONE',
+    placeHolderPath: 'assets/content/desplaceholder/dermatone-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/best-katalog-01-min.jpg',
+      },
+    ],
+  },
+  {
     name: 'AFTER EFFECTS DESIGN',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/desplaceholder/9.jpg',
