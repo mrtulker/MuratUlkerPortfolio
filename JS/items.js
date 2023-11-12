@@ -71,6 +71,27 @@ const illArray = [
     ],
   },
   {
+    name: 'GORİL ÇİZGİ ROMAN',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/goril-kucuk.jpg',
+    type: 'photo',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/obe3-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/obe2-min.JPG',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/ill/obe-min.JPG',
+      },
+    ],
+  },
+  {
     name: 'LAST SUMMER WHISPER',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/21.jpg',
