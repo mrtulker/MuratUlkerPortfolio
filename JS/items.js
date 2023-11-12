@@ -288,6 +288,19 @@ const illArray = [
     ],
   },
   {
+    name: 'DREAM',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/illplaceholder/dream-kucuk.jpg',
+    type: 'both',
+    videoURL: '',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/ill/dream-min.jpg',
+      },
+    ],
+  },
+  {
     name: 'LAST SUMMER WHISPER',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/illplaceholder/21.jpg',
