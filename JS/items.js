@@ -593,11 +593,11 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/creaderm-foto-01-min.jpg',
+        url: 'assets/content/des/creaderm-foto-01.jpg',
       },
       {
         type: 'photo',
-        url: 'assets/content/des/creaderm-ambalaj-02-min.jpg',
+        url: 'assets/content/des/creaderm-ambalaj-02.jpg',
       },
     ],
   },
