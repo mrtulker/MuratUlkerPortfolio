@@ -677,6 +677,14 @@ const desArray = [
         type: 'video',
         url: 'https://player.vimeo.com/video/883808675?h=f44087f338',
       },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883809189?h=43a7f60865',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
+      },
     ],
   },
  // {
