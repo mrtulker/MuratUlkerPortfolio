@@ -564,7 +564,7 @@ const desArray = [
     type: 'both',
     urls: [
       {
-        type: 'video',
+        type: 'photo',
         url: 'https://www.behance.net/gallery/219987267/Fenerbahce-Medicana-Social-Media-Design',
       },
     ],
