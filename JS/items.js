@@ -498,7 +498,7 @@ const illArray = [
 const desArray = [
   {
     name: 'CAN KOÇ - CANAVAR / MÜZİK KLİBİ',
-    placeHolderPath: 'assets/content/desplaceholder/ums-kucuk.jpg',
+    placeHolderPath: 'assets/content/desplaceholder/can-koc-kucuk.jpg',
     type: 'both',
     urls: [
       {
@@ -552,7 +552,7 @@ const desArray = [
   },
   {
     name: 'FENERBAHÇE MEDICANA',
-    placeHolderPath: 'assets/content/desplaceholder/fbm-kucuk.jpg',
+    placeHolderPath: 'assets/content/desplaceholder/fmb-kucuk.jpg',
     type: 'both',
     urls: [
       {
