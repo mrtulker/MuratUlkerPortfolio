@@ -497,7 +497,34 @@ const illArray = [
 ]
 const desArray = [
   {
-    name: 'UMS METAL',
+    name: 'CAN KOÇ - CANAVAR / MÜZİK KLİBİ',
+    placeHolderPath: 'assets/content/desplaceholder/ums-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'video',
+        url: 'https://www.youtube.com/embed/COIlx5BkW0U',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/799308563?h=6975a92d28',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883805641?h=d6db2f195e',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
+      },
+    ],
+  },
+  {
+    name: 'ARKADAŞIM ÇELİK / ÇOCUK KİTABI',
     placeHolderPath: 'assets/content/desplaceholder/ums-kucuk.jpg',
     type: 'both',
     urls: [
@@ -524,7 +551,73 @@ const desArray = [
     ],
   },
   {
-    name: 'AMATİS TOUR',
+    name: 'FENERBAHÇE MEDICANA',
+    placeHolderPath: 'assets/content/desplaceholder/amatis-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/fbm-behance-02.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/fbm-behance-01.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/arina-fedorovtseva.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/matchday.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/gizem-orge.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/match-post.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/mac-sonu.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/ilk6.jpg',
+      },
+    ],
+  },
+  {
+    name: 'UMS METAL / SOSYAL MEDYA',
+    placeHolderPath: 'assets/content/desplaceholder/ums-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/ums-sm.jpg',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/799308563?h=6975a92d28',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/883805641?h=d6db2f195e',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/imza-03-03.jpg',
+      },
+    ],
+  },
+  {
+    name: 'AMATİS TOUR / KURUMSAL KİMLİK',
     placeHolderPath: 'assets/content/desplaceholder/amatis-kucuk.jpg',
     type: 'both',
     urls: [
@@ -559,18 +652,14 @@ const desArray = [
     ],
   },
   {
-    name: 'FENERBAHÇE MEDICANA',
-    placeHolderPath: 'assets/content/desplaceholder/amatis-kucuk.jpg',
-    type: 'both',
-    urls: [
-      {
-        type: 'photo',
-        url: 'https://www.behance.net/gallery/219987267/Fenerbahce-Medicana-Social-Media-Design',
-      },
-    ],
+    name: 'STEFAN ZWEIG / BOOK COVER',
+    bigPhotoPath: 'assets/content/des/STEFAN ZWEIG.jpg',
+    placeHolderPath: 'assets/content/desplaceholder/7.jpg',
+    type: 'photo',
+    videoURL: '',
   },
   {
-    name: 'SOLAR START',
+    name: 'SOLAR START / SOSYAL MEDYA',
     placeHolderPath: 'assets/content/desplaceholder/solar-kucuk.jpg',
     type: 'both',
     urls: [
@@ -601,22 +690,7 @@ const desArray = [
     ],
   },
   {
-    name: 'ARVENSİS DANIŞMANLIK',
-    placeHolderPath: 'assets/content/desplaceholder/arvensis-kucuk.jpg',
-    type: 'both',
-    urls: [
-      {
-        type: 'photo',
-        url: 'assets/content/des/arvensis-sm.jpg',
-      },
-      {
-        type: 'photo',
-        url: 'assets/content/des/imza-03-03.jpg',
-      },
-    ],
-  },
-  {
-    name: 'BEST ALÜMİNYUM',
+    name: 'BEST ALÜMİNYUM / KATALOG',
     placeHolderPath: 'assets/content/desplaceholder/best-kucuk.jpg',
     type: 'both',
     urls: [
@@ -631,22 +705,7 @@ const desArray = [
     ],
   },
   {
-    name: 'BINANCE',
-    placeHolderPath: 'assets/content/desplaceholder/binance-kucuk.jpg',
-    type: 'both',
-    urls: [
-      {
-        type: 'photo',
-        url: 'assets/content/des/binance-katalog-01.jpg',
-      },
-      {
-        type: 'photo',
-        url: 'assets/content/des/imza-03-03.jpg',
-      },
-    ],
-  },
-  {
-    name: 'CREADERM',
+    name: 'CREADERM / KONSEPT - AMBALAJ',
     placeHolderPath: 'assets/content/desplaceholder/creaderm-kucuk.jpg',
     type: 'both',
     urls: [
@@ -657,21 +716,6 @@ const desArray = [
       {
         type: 'photo',
         url: 'assets/content/des/creaderm-ambalaj-02.jpg',
-      },
-      {
-        type: 'photo',
-        url: 'assets/content/des/imza-03-03.jpg',
-      },
-    ],
-  },
-  {
-    name: 'DERMATONE',
-    placeHolderPath: 'assets/content/desplaceholder/dermatone-kucuk.jpg',
-    type: 'both',
-    urls: [
-      {
-        type: 'photo',
-        url: 'assets/content/des/dermatone-foto-01.jpg',
       },
       {
         type: 'photo',
@@ -715,51 +759,44 @@ const desArray = [
    // ],
   //},
   {
-    name: 'OPENEYE',
+    name: 'OPENEYE / KURUMSAL KİMLİK',
     bigPhotoPath: 'assets/content/des/OPENEYE.jpg',
     placeHolderPath: 'assets/content/aniplaceholder/1.jpg',
     type: 'photo',
     videoURL: '',
   },
   {
-    name: 'MODERN ANADOL',
+    name: 'MODERN ANADOL / KURUMSAL KİMLİK',
     bigPhotoPath: 'assets/content/des/MODERN ANADOL.jpg',
     placeHolderPath: 'assets/content/desplaceholder/2.jpg',
     type: 'photo',
     videoURL: '',
   },
   {
-    name: 'SU İÇMEYİ BULAN ADAM',
+    name: 'SU İÇMEYİ BULAN ADAM / ÇİZGİ ROMAN',
     bigPhotoPath: 'assets/content/des/SU İÇMEYİ BULAN ADAM.jpg',
     placeHolderPath: 'assets/content/desplaceholder/3.jpg',
     type: 'photo',
     videoURL: '',
   },
   {
-    name: 'DERDİYOKLAR İKİLİSİ ALBUM COVER',
+    name: 'DERDİYOKLAR İKİLİSİ / ALBUM COVER',
     bigPhotoPath: 'assets/content/des/DERDİYOKLAR İKİLİSİ.jpg',
     placeHolderPath: 'assets/content/desplaceholder/4.jpg',
     type: 'photo',
     videoURL: '',
   },
   {
-    name: 'AŞIK EMRAH ALBUM COVER',
+    name: 'AŞIK EMRAH / ALBUM COVER',
     bigPhotoPath: 'assets/content/des/AŞIK EMRAH.jpg',
     placeHolderPath: 'assets/content/desplaceholder/5.jpg',
     type: 'photo',
     videoURL: '',
   },
   {
-    name: 'ERKİN KORAY ALBUM COVER',
+    name: 'ERKİN KORAY / ALBUM COVER',
     bigPhotoPath: 'assets/content/des/ERKİN KORAY.jpg',
     placeHolderPath: 'assets/content/desplaceholder/6.jpg',
-    type: 'photo',
-    videoURL: '',
-  },
-  {
-    name: 'STEFAN ZWEIG BOOK COVER',
-    bigPhotoPath: 'assets/content/des/STEFAN ZWEIG.jpg',
-    placeHolderPath: 'assets/content/desplaceholder/7.jpg',
     type: 'photo',
     videoURL: '',
   },
