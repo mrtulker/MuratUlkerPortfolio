@@ -525,7 +525,7 @@ const desArray = [
   },
   {
     name: 'ARKADAŞIM ÇELİK / ÇOCUK KİTABI',
-    placeHolderPath: 'assets/content/desplaceholder/ums-kucuk.jpg',
+    placeHolderPath: 'assets/content/desplaceholder/arkadasim-celik-kucuk.jpg',
     type: 'both',
     urls: [
       {
@@ -690,6 +690,13 @@ const desArray = [
     ],
   },
   {
+    name: 'OPENEYE / KURUMSAL KİMLİK',
+    bigPhotoPath: 'assets/content/des/OPENEYE.jpg',
+    placeHolderPath: 'assets/content/aniplaceholder/1.jpg',
+    type: 'photo',
+    videoURL: '',
+  },
+  {
     name: 'BEST ALÜMİNYUM / KATALOG',
     placeHolderPath: 'assets/content/desplaceholder/best-kucuk.jpg',
     type: 'both',
@@ -758,13 +765,6 @@ const desArray = [
    //   'https://player.vimeo.com/video/656053837?h=0676334806',
    // ],
   //},
-  {
-    name: 'OPENEYE / KURUMSAL KİMLİK',
-    bigPhotoPath: 'assets/content/des/OPENEYE.jpg',
-    placeHolderPath: 'assets/content/aniplaceholder/1.jpg',
-    type: 'photo',
-    videoURL: '',
-  },
   {
     name: 'MODERN ANADOL / KURUMSAL KİMLİK',
     bigPhotoPath: 'assets/content/des/MODERN ANADOL.jpg',
