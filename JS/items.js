@@ -559,6 +559,17 @@ const desArray = [
     ],
   },
   {
+    name: 'FENERBAHÇE MEDICANA',
+    placeHolderPath: 'assets/content/desplaceholder/amatis-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'video',
+        url: 'https://www.behance.net/gallery/219987267/Fenerbahce-Medicana-Social-Media-Design',
+      },
+    ],
+  },
+  {
     name: 'SOLAR START',
     placeHolderPath: 'assets/content/desplaceholder/solar-kucuk.jpg',
     type: 'both',
