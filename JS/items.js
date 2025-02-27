@@ -503,23 +503,39 @@ const desArray = [
     urls: [
       {
         type: 'video',
-        url: 'https://www.youtube.com/embed/COIlx5BkW0U',
+        url: 'https://player.vimeo.com/video/1060970625?h=54ad8b6840',
       },
       {
         type: 'video',
-        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
+        url: 'https://player.vimeo.com/video/1060959724?h=d32108f9a5',
       },
       {
         type: 'video',
-        url: 'https://player.vimeo.com/video/799308563?h=6975a92d28',
+        url: 'https://player.vimeo.com/video/1060959741?h=14325ad7c6',
       },
       {
         type: 'video',
-        url: 'https://player.vimeo.com/video/883805641?h=d6db2f195e',
+        url: 'https://player.vimeo.com/video/1060959764?h=08628ae4b3',
       },
       {
-        type: 'photo',
-        url: 'assets/content/des/imza-03-03.jpg',
+        type: 'video',
+        url: 'https://player.vimeo.com/video/1060959791?h=193c9ef5dd',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/1060959811?h=6a0ebb3bdb',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/1060959831?h=4fee153c5f',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/1060959859?h=655eee4c9c',
+      },
+      {
+        type: 'video',
+        url: 'https://player.vimeo.com/video/1060959892?h=c3d48161c3',
       },
     ],
   },
@@ -810,9 +826,16 @@ const desArray = [
 ]
 const aniArray = [
   {
-    name: 'OPENEYE TRAILER',
+    name: 'CAN KOÇ - CANAVAR / MÜZİK KLİBİ',
     bigPhotoPath: '',
     placeHolderPath: 'assets/content/aniplaceholder/1.jpg',
+    type: 'video',
+    videoURL: ['https://player.vimeo.com/video/1060970625?h=54ad8b6840'],
+  },
+  {
+    name: 'OPENEYE TRAILER',
+    bigPhotoPath: '',
+    placeHolderPath: 'assets/content/aniplaceholder/can-koc-kucuk.jpg',
     type: 'video',
     videoURL: ['https://player.vimeo.com/video/490751806?h=4f0be92a52'],
   },

@@ -139,7 +139,7 @@ async function bigPhotoOpener(item) {
          <h1>${name}</h1>
       </div>`
     for (let i = 0; i < v_arr.length; i++) {
-      html += `<div class="video-container"><iframe src="${v_arr[i]}8&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>`
+      html += `<div class="video-container"><iframe src="${v_arr[i]}8&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`
     }
     html += `</div>`
     $('body').append(html)
@@ -177,7 +177,7 @@ async function bigPhotoOpener(item) {
                <img src="${bothArray[i].url}" alt="${name}" id="img">
             </div>`
       } else {
-        html += `<div class="video-container"><iframe src="${bothArray[i].url}8&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>`
+        html += `<div class="video-container"><iframe src="${bothArray[i].url}8&color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`
       }
     }
     html += `</div>`
