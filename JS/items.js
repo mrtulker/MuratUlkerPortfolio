@@ -552,7 +552,7 @@ const desArray = [
   },
   {
     name: 'FENERBAHÇE MEDICANA',
-    placeHolderPath: 'assets/content/desplaceholder/amatis-kucuk.jpg',
+    placeHolderPath: 'assets/content/desplaceholder/fbm-kucuk.jpg',
     type: 'both',
     urls: [
       {
