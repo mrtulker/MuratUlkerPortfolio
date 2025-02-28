@@ -606,6 +606,45 @@ const desArray = [
     ],
   },
   {
+    name: 'ANATOLIAN SPACESHIP / ALBUM COVER',
+    placeHolderPath: 'assets/content/desplaceholder/fmb-kucuk.jpg',
+    type: 'both',
+    urls: [
+      {
+        type: 'photo',
+        url: 'assets/content/des/fbm-behance-02.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/fbm-behance-01.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/arina-fedorovtseva.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/matchday.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/gizem-orge.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/match-post.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/mac-sonu.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/ilk6.jpg',
+      },
+    ],
+  },
+  {
     name: 'UMS METAL / SOSYAL MEDYA',
     placeHolderPath: 'assets/content/desplaceholder/ums-kucuk.jpg',
     type: 'both',
