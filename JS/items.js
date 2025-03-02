@@ -546,23 +546,27 @@ const desArray = [
     urls: [
       {
         type: 'photo',
-        url: 'assets/content/des/ums-sm.jpg',
-      },
-      {
-        type: 'video',
-        url: 'https://player.vimeo.com/video/799309159?h=c95641ee0a',
-      },
-      {
-        type: 'video',
-        url: 'https://player.vimeo.com/video/799308563?h=6975a92d28',
-      },
-      {
-        type: 'video',
-        url: 'https://player.vimeo.com/video/883805641?h=d6db2f195e',
+        url: 'assets/content/des/vinyet.jpg',
       },
       {
         type: 'photo',
-        url: 'assets/content/des/imza-03-03.jpg',
+        url: 'assets/content/des/1rgb.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/2rgb.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/5rgb.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/6rgb.jpg',
+      },
+      {
+        type: 'photo',
+        url: 'assets/content/des/9rgb.jpg',
       },
     ],
   },
