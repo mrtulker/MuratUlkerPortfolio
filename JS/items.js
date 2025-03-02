@@ -550,23 +550,15 @@ const desArray = [
       },
       {
         type: 'photo',
-        url: 'assets/content/des/1rgb.jpg',
+        url: 'assets/content/des/ac1.jpg',
       },
       {
         type: 'photo',
-        url: 'assets/content/des/2rgb.jpg',
+        url: 'assets/content/des/ac2.jpg',
       },
       {
         type: 'photo',
-        url: 'assets/content/des/5rgb.jpg',
-      },
-      {
-        type: 'photo',
-        url: 'assets/content/des/6rgb.jpg',
-      },
-      {
-        type: 'photo',
-        url: 'assets/content/des/9rgb.jpg',
+        url: 'assets/content/des/ac3.jpg',
       },
     ],
   },
