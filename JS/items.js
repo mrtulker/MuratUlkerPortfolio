@@ -847,14 +847,14 @@ const aniArray = [
   {
     name: 'CAN KOÇ - CANAVAR / MÜZİK KLİBİ',
     bigPhotoPath: '',
-    placeHolderPath: 'assets/content/aniplaceholder/1.jpg',
+    placeHolderPath: 'assets/content/aniplaceholder/can-koc-kucuk.jpg',
     type: 'video',
     videoURL: ['https://player.vimeo.com/video/1060970625?h=54ad8b6840'],
   },
   {
     name: 'OPENEYE TRAILER',
     bigPhotoPath: '',
-    placeHolderPath: 'assets/content/aniplaceholder/can-koc-kucuk.jpg',
+    placeHolderPath: 'assets/content/aniplaceholder/1.jpg',
     type: 'video',
     videoURL: ['https://player.vimeo.com/video/490751806?h=4f0be92a52'],
   },
